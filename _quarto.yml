@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/**
+    - files/**
+
+website:
+  title: "PABLO HERNANDO-KAMINSKY"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: cv/index.qmd
+        text: CV
+      - href: research/index.qmd
+        text: Research
+      - href: books/index.qmd
+        text: Books
+  search: false
+
+format:
+  html:
+    css: styles.css
+    toc: false

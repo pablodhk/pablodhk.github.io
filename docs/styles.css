@@ -1,28 +1,30 @@
+/* ========================================
+   GLOBAL SITE STYLES
+   ======================================== */
+
 body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 17px;
   line-height: 1.6;
-}
-
-.navbar-brand {
-  font-weight: 600;
-  letter-spacing: 0.08em;
-}
-
-.navbar-nav {
-  font-size: 15px;
+  color: black;
 }
 
 main {
-  max-width: 1000px;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-p {
+/* Use this only for text you explicitly mark as justified */
+.justified p {
   text-align: justify;
+  hyphens: auto;
 }
+
 
 
 /* ========================================
-   HEADER AND NAVIGATION
+   HOME PAGE HEADER AND NAVIGATION
    ======================================== */
 
 .navbar {
@@ -34,6 +36,7 @@ p {
 
 
 /* DESKTOP */
+
 @media (min-width: 992px) {
 
   .navbar.navbar-expand-lg .navbar-container {
@@ -43,10 +46,11 @@ p {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
     justify-items: center;
-    padding: 70px 20px 50px 20px;
+    padding: 45px 20px 30px 20px;
   }
 
   /* Name */
+
   .navbar.navbar-expand-lg .navbar-brand-container {
     grid-column: 1;
     grid-row: 1;
@@ -73,13 +77,14 @@ p {
   }
 
   /* Navigation row */
+
   .navbar.navbar-expand-lg .navbar-collapse {
     grid-column: 1;
     grid-row: 2;
     width: 100% !important;
     display: flex !important;
     justify-content: center !important;
-    margin-top: 30px;
+    margin-top: 18px;
   }
 
   .navbar.navbar-expand-lg .navbar-nav {
@@ -105,15 +110,13 @@ p {
 }
 
 
-/* ---------- PAGE CONTENT ---------- */
 
-body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  color: black;
-}
-
-main {
-  max-width: 1100px;
+.cv-pdf {
+  display: block;
+  width: 900px;
+  max-width: 100%;
+  height: 1100px;
+  border: none;
   margin-left: auto;
   margin-right: auto;
 }

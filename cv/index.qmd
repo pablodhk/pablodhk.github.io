@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+page-layout: full
 ---
 
 [**Download my CV (PDF)**](../files/cv/CVHernandoKaminskyPD.pdf)
@@ -7,9 +8,7 @@ title: "Curriculum Vitae"
 
 ```{=html}
 <iframe
-  src="../files/cv/CVHernandoKaminskyPD.pdf"
-  width="100%"
-  height="900px"
-  style="border: none;">
-</iframe>   
+  class="cv-pdf"
+  src="../files/cv/CVHernandoKaminskyPD.pdf">
+</iframe>
 ```

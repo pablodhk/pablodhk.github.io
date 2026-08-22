@@ -14,9 +14,13 @@ title: ""
 
 [# Pablo Hernando-Kaminsky]: #
 
+::: {.justified}
+
 I am an economist in the Economics and Market Research Department of the International Finance Corporation. Previously, I was a Postdoctoral Associate in the Macroeconomics and Growth Unit of the Development Research Group at the World Bank. I obtained my PhD in Economics from Johns Hopkins University in 2023.
 
 My research interests lie at the intersection of international finance and macroeconomics.
+
+:::
 
 ## Contact
 

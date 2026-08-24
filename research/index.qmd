@@ -6,7 +6,7 @@ title: "Research"
 
 ### Crowding Out and Banking Crises
 
-[Paper](../files/crowding-out.pdf)
+[Paper](../files/papers/JMP_28.pdf){target="_blank"} [[World Bank Working Paper]](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099548206122570315){target="_blank"}
 
 ::: {.justified}
 
@@ -19,7 +19,7 @@ This paper studies the effect of government issuance on private issuance during 
 *with Graciela Kaminsky and Shiyi Wang*
 
 
-[Paper](../files/paper-name.pdf)
+[[Paper](../files/paper-name.pdf)]: #
 
 ::: {.justified}
 

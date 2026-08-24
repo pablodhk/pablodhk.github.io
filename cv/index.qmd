@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 page-layout: full
 ---
 
-[**Download my CV (PDF)**](../files/cv/CVHernandoKaminskyPD.pdf)
+[**Download my CV (PDF)**](../files/cv/CVHernandoKaminskyPD.pdf){target="_blank"}
 
 
 ```{=html}

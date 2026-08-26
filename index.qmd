@@ -4,13 +4,13 @@ title: ""
 
 ::: {.columns}
 
-::: {.column width="38%"}
+::: {.column width="35%"}
 
 ![](images/Personal-Website-Picture.jpg){width=85%}
 
 :::
 
-::: {.column width="62%"}
+::: {.column width="65%"}
 
 [# Pablo Hernando-Kaminsky]: #
 

@@ -4,13 +4,13 @@ title: ""
 
 ::: {.columns}
 
-::: {.column width="38%"}
+::: {.column width="35%"}
 
-![](images/Personal-Website-Picture.jpg){width=85%}
+![](images/Personal-Website-Picture.jpg){width=90%}
 
 :::
 
-::: {.column width="62%"}
+::: {.column width="65%"}
 
 [# Pablo Hernando-Kaminsky]: #
 
@@ -22,7 +22,7 @@ My research interests lie at the intersection of international finance and macro
 
 :::
 
-## Contact
+### Contact
 
 Email: pablohk@ifc.org
 

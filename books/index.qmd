@@ -1,5 +1,7 @@
 ---
 title: "Books"
+aliases:
+  - "/copy-of-research/index.html"
 ---
 
 ## Financing Firm Growth: The Role of Capital Markets in Low- and Middle-Income Countries

@@ -18,7 +18,7 @@ main {
 /* Use this only for text you explicitly mark as justified */
 .justified p {
   text-align: justify;
-  hyphens: auto;
+  hyphens: none;
 }
 
 
@@ -68,7 +68,7 @@ main {
 
   .navbar-title {
     font-family: "Helvetica Neue", Arial, sans-serif;
-    font-size: 24px !important;
+    font-size: 30px !important;
     font-weight: 300;
     line-height: 1;
     color: black;

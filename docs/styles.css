@@ -120,3 +120,88 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+
+
+/* ========================================
+   MOBILE NAVIGATION
+   ======================================== */
+
+@media (max-width: 991px) {
+
+  .navbar {
+    background-color: white !important;
+  }
+
+  /* Put name, hamburger, and menu on separate rows */
+  .navbar-container {
+    display: grid !important;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    justify-items: center;
+    width: 100%;
+    padding: 25px 20px !important;
+  }
+
+  /* Website name */
+  .navbar-brand-container {
+    grid-row: 1;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 0 !important;
+    max-width: none !important;
+    overflow: visible !important;
+  }
+
+  .navbar-brand {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    overflow: visible !important;
+  }
+
+  .navbar-title {
+    color: black !important;
+    font-size: 18px !important;
+    font-weight: 300 !important;
+    max-width: none !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+    white-space: nowrap !important;
+    opacity: 1 !important;
+  }
+
+  /* Hamburger underneath the name */
+  .navbar-toggler {
+    grid-row: 2;
+    margin-top: 18px !important;
+    padding: 0 !important;
+    color: black !important;
+    border: none !important;
+    opacity: 1 !important;
+  }
+
+  .navbar-toggler-icon {
+    filter: invert(1);
+  }
+
+  /* Menu opens underneath hamburger */
+  .navbar-collapse {
+    grid-row: 3;
+    width: 100% !important;
+    background-color: white !important;
+    margin-top: 15px;
+  }
+
+  .navbar-nav {
+    align-items: center;
+  }
+
+  .navbar-nav .nav-link {
+    color: black !important;
+    font-size: 16px !important;
+    opacity: 1 !important;
+  }
+
+}

@@ -14,9 +14,21 @@ This paper studies the effect of government issuance on private issuance during 
 
 :::
 
+### What Does Venture Capital Actually Finance? Scale and Structure around the World
+
+*with Santiago Reyes, Kianna Freeman, Jeremias Huber, and Paolo Mauro*
+
+[[World Bank Working Paper]](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099448208312623799){target="_blank"}
+
+::: {.justified}
+
+Venture capital is widely viewed as financing knowledge-intensive, R&D-driven startups, but owing to data constraints, this view has been based largely on high-income economies. By taking a global perspective, this paper documents that what venture capital finances differs systematically across economies, varying with institutional and business conditions rather than following a single model. Using a new cross-country dataset that harmonizes firm-level venture capital records with equity issuance data for more than 150 economies, the data shows that VC markets differ across countries not only in scale but in kind. Outside high-income countries, rather than being concentrated in knowledge intangibles, venture capital tilts–at both the sector and firm levels–toward organizational intangibles such as distribution, logistics, and payments. Highlighting the unique features of venture capital, this pattern is absent from public equity markets, where sectoral composition is far more similar across income levels. An accounting decomposition separates venture capital depth into the rate at which firms enter the market and the funding each entrant attracts, and entry accounts for the largest cross-country gaps. Moreover, the business environment is associated with VC primarily through entry, linked both to the size of the market and to the composition of what venture capital finances, the latter through entry into knowledge-intensive sectors in particular.
+
+:::
+
 ### Financial Fractures: Sovereign Borrowing and Private Access to International Capital Markets
 
-*with Graciela Kaminsky and Shiyi Wang*
+*with [Graciela Kaminsky](https://www.gracielakaminsky.com/) and [Shiyi Wang](https://shiyiwang.weebly.com/)*
 
 
 [[Paper](../files/paper-name.pdf)]: #
@@ -26,3 +38,13 @@ This paper studies the effect of government issuance on private issuance during 
 This paper studies whether surges in sovereign borrowing adversely affect the ability of corporations to tap international capital markets. Previous research documenting crowding out has concentrated on domestic markets, which are illiquid and segmented. In these constrained markets, government issuance crowds out corporate sector borrowing. In contrast, international markets are considered to be highly integrated across all countries and highly liquid. In this environment, government borrowing should not crowd out corporate issuance. However, this is not always the case. Occasionally, financial fractures appear, and panics ensue. We capture these periods of fractures, and test whether sovereign issuance constrains corporate sector access to international markets in periods when cracks appear.
 
 :::
+
+## Work in Progress
+
+### Cracks in the sovereign floor: When Corporate Yields Fall Below Government Rates
+
+*with [Andreea Rot&#259;rescu](https://www.andreearotarescu.com/)*
+
+### Geopolitical Shocks and International Financial Stability: What Can We Learn from Loan Syndicates’ Exposure to Russian Firms?
+
+*with [Maria Olivero](https://www.mariapia-olivero.com/) and [Andreea Rot&#259;rescu](https://www.andreearotarescu.com/)*

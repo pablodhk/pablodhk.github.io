@@ -205,3 +205,23 @@ main {
   }
 
 }
+
+
+/* ========================================
+   LINKS
+   ======================================== */
+a {
+  color: #5D7580;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #5D7580;
+  text-decoration: underline;
+}
+
+.profile-link {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}

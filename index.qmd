@@ -8,6 +8,8 @@ title: ""
 
 ![](images/Personal-Website-Picture.jpg){width=90%}
 
+[RePEc](https://ideas.repec.org/f/phe879.html){.profile-link}
+
 :::
 
 ::: {.column width="65%"}
@@ -25,6 +27,8 @@ My research interests lie at the intersection of international finance and macro
 ### Contact
 
 Email: pablohk@ifc.org
+
+
 
 :::
 

@@ -1,0 +1,12 @@
+---
+title: ""
+---
+
+```{=html}
+<meta http-equiv="refresh" content="0; url=/files/papers/JMP_28.pdf">
+
+<p>
+  If you are not redirected automatically,
+  <a href="/files/papers/JMP_28.pdf">open the paper here</a>.
+</p>
+```

@@ -8,7 +8,10 @@ title: ""
 
 ![](images/Personal-Website-Picture.jpg){width=90%}
 
-[RePEc](https://ideas.repec.org/f/phe879.html){.profile-link}
+::: {.profile-links}
+[RePEc](https://ideas.repec.org/f/phe879.html) [CEPR](https://cepr.org/about/people/pablo-hernando-kaminsky)
+
+:::
 
 :::
 

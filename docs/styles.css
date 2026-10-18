@@ -220,8 +220,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.profile-link {
-  display: block;
+.profile-links {
   text-align: center;
   margin-top: 10px;
 }

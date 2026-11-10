@@ -16,6 +16,8 @@ website:
         text: CV
       - href: research/index.qmd
         text: Research
+      - href: teaching/index.qmd
+        text: Teaching
       - href: books/index.qmd
         text: Books
   search: false
